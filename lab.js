@@ -15,7 +15,7 @@ if (lovesCode) {
 }
 
 // For problems 2-3 use the following lines of code:
-var amysAge = 29;
+var amysAge = 21;
 var brittanisAge = 34;
 var amysBirthYear = 1991;
 var brittanisBirthYear = 1986;
@@ -27,6 +27,14 @@ var brittanisBirthYear = 1986;
 */
 
 //CODE HERE
+if (amysAge > brittanisAge) {
+  console.log("Amy is older.");
+} else if (amysAge < brittanisAge) {
+  console.log("Brittan is older.");
+} else {
+  console.log("Both Amy and Brittan are the same age!");
+}
+
 
 ////////// PROBLEM 3 //////////
 
