@@ -89,7 +89,10 @@ if (temperature >= 80 && rain){
 */
 
 //CODE HERE
-
+for ( i = 0; i <= 9; i++ ) {
+  console.log("hello");
+}
+// assuming the intial 0 counts as run 1
 ////////// PROBLEM 6 //////////
 
 /*
